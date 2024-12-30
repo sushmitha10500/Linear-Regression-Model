@@ -1,6 +1,8 @@
-# Algorithm To create a model using Python's scikit-learn library to predict student scores
-
-
-
-
-
+#Algorithm for Linear Regression in Python:
+Import Libraries: Load necessary libraries for data manipulation and model building.
+Load Dataset: Use a small publicly available dataset (e.g., housing prices or student scores).
+Split the Data: Split the dataset into training and testing sets.
+Build the Model: Use the LinearRegression class from scikit-learn.
+Train the Model: Fit the model on the training data.
+Evaluate the Model: Calculate metrics like Mean Squared Error (MSE) and R² score on the test data.
+Visualize Results: Optionally, plot the regression line and test data points.
